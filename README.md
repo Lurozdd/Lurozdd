@@ -1,5 +1,6 @@
 - 👋 Salut, je m'appelle @Lurozdd
-- 👀 Je suis Développeur LUA | HTML et CSS |
+- 👀 Je suis Développeur LUA
+- Entrainement En Cours : HTML / CSS / JS
 - 🌱 J'apprends actuellement Python | Java | C++ | C# |
-- 💞️ Voici mon Discord en cas d'avoir besoin d'aide : https://discord.gg/rAZTpWkPC3
-- 📫 Comment me contacter : Lurozd#6828
+- 💞️ Voici mon Discord en cas d'avoir besoin d'aide : https://discord.gg/lrddev
+- 📫 Comment me contacter : Lurozd
