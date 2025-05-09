@@ -2,5 +2,5 @@
 - 👀 Je suis Développeur LUA
 - Entrainement En Cours : HTML / CSS / JS
 - 🌱 J'apprends actuellement Python | Java | C++ | C# |
-- 💞️ Voici mon Discord en cas d'avoir besoin d'aide : https://discord.gg/lrddev
-- 📫 Comment me contacter : Lurozd
+- 💞️ Voici mon Discord en cas d'avoir besoin d'aide : https://discord.gg/lrdstore
+- 📫 Comment me contacter : Lurozd.contact@gmail.com
