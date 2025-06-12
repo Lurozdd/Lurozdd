@@ -1,6 +1,6 @@
-- 👋 Salut, je m'appelle @Lurozdd
-- 👀 Je suis Développeur LUA
-- Entrainement En Cours : HTML / CSS / JS
-- 🌱 J'apprends actuellement Python | Java | C++ | C# |
-- 💞️ Voici mon Discord en cas d'avoir besoin d'aide : https://discord.gg/lrdstore
-- 📫 Comment me contacter : Lurozd.contact@gmail.com
+- 👋 Hi, my name is @Lurozdd
+- 👀 I am a LUA Developer
+- Training In Progress: HTML / CSS / JS
+- 🌱 I am currently learning Python | Java | C++ | C# |
+- 💞️ This is my Discord in case I need help: https://discord.gg/lrdstore
+- 📫 How to contact me: Lurozd.contact@gmail.com
