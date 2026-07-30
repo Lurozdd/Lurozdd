@@ -49,12 +49,7 @@
 #### Backend & Data
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![oxmysql](https://img.shields.io/badge/oxmysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 #### FiveM Ecosystem
 
@@ -63,14 +58,7 @@
 ![ESX Legacy](https://img.shields.io/badge/ESX_Legacy-111827?style=for-the-badge)
 ![QBCore](https://img.shields.io/badge/QBCore-2563EB?style=for-the-badge)
 ![QBOX](https://img.shields.io/badge/QBOX-7C3AED?style=for-the-badge)
-![ox_lib](https://img.shields.io/badge/ox__lib-16A34A?style=for-the-badge)
-![ox_inventory](https://img.shields.io/badge/ox__inventory-15803D?style=for-the-badge)
-![ox_target](https://img.shields.io/badge/ox__target-166534?style=for-the-badge)
 ![RageUI](https://img.shields.io/badge/RageUI-DC2626?style=for-the-badge)
-![txAdmin](https://img.shields.io/badge/txAdmin-F97316?style=for-the-badge)
-![OneSync](https://img.shields.io/badge/OneSync-EAB308?style=for-the-badge)
-![pma-voice](https://img.shields.io/badge/pma--voice-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Discord Webhooks](https://img.shields.io/badge/Discord_Webhooks-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 #### Development Tools
 
