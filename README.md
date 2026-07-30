@@ -109,8 +109,7 @@
 - 🏢 **[Sapense](https://sapense.fr/)** — Digital group and brand studio
 - 🛒 **[LRD STORE](https://lrd-store.com/)** — Premium FiveM scripts and development
 - 🖥️ **[LRD HEBERG](https://lrd-heberg.fr/)** — Game-server hosting and infrastructure
-- 🎨 **LRD Studio** — Web design, showcase websites and digital experiences
-- 🚘 **Prestige Care Auto** — Premium vehicle cleaning and detailing
+- 🎨 **[LRD Studio](https://lrd-studio.com)** — Web design, showcase websites and digital experiences
 
 ---
 
@@ -130,14 +129,6 @@
 - ☣️ **END TIME** — Custom post-apocalyptic FiveM universe
 - 🌆 **ARKALEY RP** — FiveM roleplay project
 - ⚙️ **LRD Plug & Play** — Complete configurable FiveM server solution
-
----
-
-### 📊 GitHub Stats
-
-![Lurozdd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lurozdd&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lurozdd&layout=compact&theme=radical&hide_border=true)
 
 ---
 
