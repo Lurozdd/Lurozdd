@@ -12,9 +12,9 @@
 ### 👨‍💻 About Me
 
 - 💻 **FiveM & Web Developer**, specialized in **Lua**
-- 🎮 More than **3 years of experience** in FiveM development
+- 🎮 More than **6 years of experience** in FiveM development
 - 🚀 Founder of **LRD STORE**, **LRD HEBERG** and **LRD Studio**
-- 🏢 Co-founder of the **Sapense** digital group
+- 🏢 Founder of the **Sapense Holding** digital group
 - 🧩 Creating complete scripts, modern interfaces and configurable systems
 - 🌐 Building websites, web platforms, e-commerce projects and digital brands
 - 📈 Interested in entrepreneurship, product development and community growth
@@ -32,28 +32,60 @@
 
 ### 🛠️ Tech Stack
 
+#### Languages & Scripting
+
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+#### Frontend & UI
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+#### Backend & Data
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![oxmysql](https://img.shields.io/badge/oxmysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+#### FiveM Ecosystem
+
+![FiveM](https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white)
+![NUI](https://img.shields.io/badge/FiveM_NUI-111827?style=for-the-badge)
+![ESX Legacy](https://img.shields.io/badge/ESX_Legacy-111827?style=for-the-badge)
+![QBCore](https://img.shields.io/badge/QBCore-2563EB?style=for-the-badge)
+![QBOX](https://img.shields.io/badge/QBOX-7C3AED?style=for-the-badge)
+![ox_lib](https://img.shields.io/badge/ox__lib-16A34A?style=for-the-badge)
+![ox_inventory](https://img.shields.io/badge/ox__inventory-15803D?style=for-the-badge)
+![ox_target](https://img.shields.io/badge/ox__target-166534?style=for-the-badge)
+![RageUI](https://img.shields.io/badge/RageUI-DC2626?style=for-the-badge)
+![txAdmin](https://img.shields.io/badge/txAdmin-F97316?style=for-the-badge)
+![OneSync](https://img.shields.io/badge/OneSync-EAB308?style=for-the-badge)
+![pma-voice](https://img.shields.io/badge/pma--voice-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Discord Webhooks](https://img.shields.io/badge/Discord_Webhooks-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+#### Development Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-**FiveM ecosystem**
+#### Infrastructure & Hosting
 
-![FiveM](https://img.shields.io/badge/FiveM-F40552?style=flat-square&logo=fivem&logoColor=white)
-![ESX Legacy](https://img.shields.io/badge/ESX_Legacy-111827?style=flat-square)
-![QBCore](https://img.shields.io/badge/QBCore-2563EB?style=flat-square)
-![QBOX](https://img.shields.io/badge/QBOX-7C3AED?style=flat-square)
-![ox_lib](https://img.shields.io/badge/ox__lib-16A34A?style=flat-square)
-![ox_inventory](https://img.shields.io/badge/ox__inventory-15803D?style=flat-square)
-![ox_target](https://img.shields.io/badge/ox__target-166534?style=flat-square)
-![RageUI](https://img.shields.io/badge/RageUI-DC2626?style=flat-square)
-![txAdmin](https://img.shields.io/badge/txAdmin-F97316?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Pterodactyl](https://img.shields.io/badge/Pterodactyl-10539F?style=for-the-badge&logo=pterodactyl&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-**Currently exploring**
+#### Currently Exploring
 
 ![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-Learning-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
